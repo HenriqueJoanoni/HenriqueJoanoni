@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My Name is Jose Henrique, and I am a (most of the time) back-end developer in a PHP World.
+My Name is Jose Henrique, and I am a (most of the time) back-end developer into Software World.
 
 - Technology lover
 - Looking for new challenges in search of professional growth !
